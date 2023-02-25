@@ -1,43 +1,43 @@
 {
   "battery": {
-    "performance": "My Initial Diagnoses is: Battery - Performance problem  <br>  Your Battery is probably too old. If your Battery keeps getting empty too early, it should get replaced by a Professional. Alternatively, you can calibrate the Battery by doeing this: Charge your Battery full, then use your Computer, until the Battery is dead. Then connect it to the Power Supply, start the System and let it charge full while it is on.",
-    "connection": "My Initial Diagnoses is: Battery - Connection problem   <br>  It might be, that your Computer does not have a Battery. If you are sure that you have one, the Connection must be repaired.",
+    "performance": "My Initial Diagnoses is: Battery - Performance problem \n Your Battery is probably too old. If your Battery keeps getting empty too early, it should get replaced by a Professional. Alternatively, you can calibrate the Battery by doeing this: Charge your Battery full, then use your Computer, until the Battery is dead. Then connect it to the Power Supply, start the System and let it charge full while it is on.",
+    "connection": "My Initial Diagnoses is: Battery - Connection problem  \n It might be, that your Computer does not have a Battery. If you are sure that you have one, the Connection must be repaired.",
     "access": "",
     "sonstiges": ""
   },
   "printer": {
-    "performance": "My Initial Diagnoses is: Printer - Performance problem  <br>  The printer is probably old and needs to be replaced",
-    "connection": "My Initial Diagnoses is: Printer - Connection problem  <br>  First, make sure, you have this right: Is the printer on? Is your Printer in the same Wifi Network as your Computer, or is it connected with a USB Cable to your Computer?",
-    "access": "My Initial Diagnoses is: Printer - access problem  <br>  If you can not access your Printer, you have not used the correct Password. If you do not remember it, please Factory Reset your Printer.",
-    "sonstiges": "My Initial Diagnoses is: Printer - Ink Catradiges problem  <br>   Ink Catradiges need to be replaced"
+    "performance": "My Initial Diagnoses is: Printer - Performance problem \n The printer is probably old and needs to be replaced",
+    "connection": "My Initial Diagnoses is: Printer - Connection problem \n First, make sure, you have this right: Is the printer on? Is your Printer in the same Wifi Network as your Computer, or is it connected with a USB Cable to your Computer?",
+    "access": "My Initial Diagnoses is: Printer - access problem \n If you can not access your Printer, you have not used the correct Password. If you do not remember it, please Factory Reset your Printer.",
+    "sonstiges": "My Initial Diagnoses is: Printer - Ink Catradiges problem \n  Ink Catradiges need to be replaced"
   },
   "wifi": {
-    "performance": "My Initial Diagnoses is: Wifi - Performance problem  <br>  If your Wifi is slow, make sure, you have a good Connection, by standing in the Near of the Router. If the Speed is not getting better, there might be too many Devices using your Network, or your Internet Contract is not good enough.",
-    "connection": "My Initial Diagnoses is: Wifi - Connection problem  <br>  If your Connection is not stable, make sure you are not too far away from the Router. If that does not help, restart the Router by unplugging it and reconnect it.",
-    "access": "My Initial Diagnoses is: Wifi - access problem  <br>  The Router does not accept your Password. Please reconnect with the correct Password. If it keeps to deny you, please see the Administrator.",
+    "performance": "My Initial Diagnoses is: Wifi - Performance problem \n If your Wifi is slow, make sure, you have a good Connection, by standing in the Near of the Router. If the Speed is not getting better, there might be too many Devices using your Network, or your Internet Contract is not good enough.",
+    "connection": "My Initial Diagnoses is: Wifi - Connection problem \n If your Connection is not stable, make sure you are not too far away from the Router. If that does not help, restart the Router by unplugging it and reconnect it.",
+    "access": "My Initial Diagnoses is: Wifi - access problem \n The Router does not accept your Password. Please reconnect with the correct Password. If it keeps to deny you, please see the Administrator.",
     "sonstiges": ""
   },
   "monitor": {
-    "performance": "My Initial Diagnoses is: Monitor - Performance problem  <br>  Make sure, that the Power Cable is plugged in and in good Health. If it does not getting better, your Monitor might be broken.",
-    "connection": "My Initial Diagnoses is: Monitor - Connection problem  <br>  Make sure you have selected the right source in your Monitor. Alternatively, use another Cable, or another Input.",
+    "performance": "My Initial Diagnoses is: Monitor - Performance problem \n Make sure, that the Power Cable is plugged in and in good Health. If it does not getting better, your Monitor might be broken.",
+    "connection": "My Initial Diagnoses is: Monitor - Connection problem \n Make sure you have selected the right source in your Monitor. Alternatively, use another Cable, or another Input.",
     "access": "",
     "sonstiges": ""
   },
   "computer": {
-    "performance": "My Initial Diagnoses is: Computer - Performance problem  <br>  few Tipps, to get better Performance. First, restart your System. Make sure, your Computer has at least 10 Percent free Memory Capacity. Delete unnessesary Programs. Upgrade your RAM or your HDD.",
-    "connection": "My Initial Diagnoses is: Computer - connection problem  <br>  Please restart your PC. If the Connection fails anyway, restart the Wifi Router.",
-    "access": "My Initial Diagnoses is: Computer - access problem  <br>  Your Password is not correct. Maybee you forgot it, or it got changed by another User.",
+    "performance": "My Initial Diagnoses is: Computer - Performance problem \n few Tipps, to get better Performance. First, restart your System. Make sure, your Computer has at least 10 Percent free Memory Capacity. Delete unnessesary Programs. Upgrade your RAM or your HDD.",
+    "connection": "My Initial Diagnoses is: Computer - connection problem \n Please restart your PC. If the Connection fails anyway, restart the Wifi Router.",
+    "access": "My Initial Diagnoses is: Computer - access problem \n Your Password is not correct. Maybee you forgot it, or it got changed by another User.",
     "sonstiges": ""
   },
   "keyboard": {
-    "performance": "My Initial Diagnoses is: keyboard - Performance problem  <br>  You might upgrade to a better Keyboard, to write Faster.",
-    "connection": "My Initial Diagnoses is: keyboard - connection problem  <br>  Is your Cable conncted to the PC? If wireless, is the Battery of the Keyboard charged and Bloototh on your PC activated?",
+    "performance": "My Initial Diagnoses is: keyboard - Performance problem \n You might upgrade to a better Keyboard, to write Faster.",
+    "connection": "My Initial Diagnoses is: keyboard - connection problem \n Is your Cable conncted to the PC? If wireless, is the Battery of the Keyboard charged and Bloototh on your PC activated?",
     "access": "",
     "sonstiges": ""
   },
   "mouse": {
-    "performance": "My Initial Diagnoses is: mouse - Performance problem  <br>  Please use your Mouse on a Mouse Pad for optimal Performance.",
-    "connection": "My Initial Diagnoses is: mouse - connection problem  <br>  Is your Cable conncted to the PC? If wireless, is the Battery of the Mouse charged and Bloototh on your PC activated?",
+    "performance": "My Initial Diagnoses is: mouse - Performance problem \n Please use your Mouse on a Mouse Pad for optimal Performance.",
+    "connection": "My Initial Diagnoses is: mouse - connection problem \n Is your Cable conncted to the PC? If wireless, is the Battery of the Mouse charged and Bloototh on your PC activated?",
     "access": "",
     "sonstiges": ""
   }
