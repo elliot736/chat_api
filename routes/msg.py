@@ -2,7 +2,7 @@ from flask import Flask
 from flask import request
 # from services.answerMsgBert import answerMsgBert
 from controllers.pipeline import pipeline
-from controllers.translate import translate
+from controllers.translate import translate2en, translate2de
 from app import app
 @app.route("/")
 def index():
@@ -14,10 +14,16 @@ def send_main():
     answer = pipeline(msg)
     return answer
 
-@app.route("/translate", methods=["POST"])
+@app.route("/translate2en", methods=["POST"])
 def send():
     msg= request.args.get("msg")
-    answer = translate(msg)
+    answer = translate2en(msg)
+    return answer
+
+@app.route("/translate2de", methods=["POST"])
+def send_de():
+    msg= request.args.get("msg")
+    answer = translate2de(msg)
     return answer
 
 # @app.route("/bert/sendMsg", methods=["POST"])
